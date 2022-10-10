@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-07-29 16:17:11 --> Severity: 8192 --> idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated /opt/lampp/htdocs/mini-inventory-and-sales-management-system/system/libraries/Form_validation.php 1234
+ERROR - 2018-07-29 16:23:43 --> Severity: 8192 --> idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated /opt/lampp/htdocs/mini-inventory-and-sales-management-system/system/libraries/Form_validation.php 1234
+ERROR - 2018-07-29 16:25:11 --> Severity: 8192 --> idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated /opt/lampp/htdocs/mini-inventory-and-sales-management-system/system/libraries/Form_validation.php 1234
+ERROR - 2018-07-29 16:32:22 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /opt/lampp/htdocs/mini-inventory-and-sales-management-system/application/controllers/Administrators.php 55
+ERROR - 2018-07-29 16:32:22 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /opt/lampp/htdocs/mini-inventory-and-sales-management-system/application/controllers/Administrators.php 71
+ERROR - 2018-07-29 16:32:45 --> Severity: 8192 --> idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated /opt/lampp/htdocs/mini-inventory-and-sales-management-system/system/libraries/Form_validation.php 1234
+ERROR - 2018-07-29 16:33:06 --> Severity: 8192 --> idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated /opt/lampp/htdocs/mini-inventory-and-sales-management-system/system/libraries/Form_validation.php 1234
+ERROR - 2018-07-29 16:33:08 --> Severity: 8192 --> idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated /opt/lampp/htdocs/mini-inventory-and-sales-management-system/system/libraries/Form_validation.php 1234
+ERROR - 2018-07-29 16:33:32 --> Severity: 8192 --> idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated /opt/lampp/htdocs/mini-inventory-and-sales-management-system/system/libraries/Form_validation.php 1234
+ERROR - 2018-07-29 16:33:57 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /opt/lampp/htdocs/mini-inventory-and-sales-management-system/application/controllers/Administrators.php 55
+ERROR - 2018-07-29 16:33:57 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /opt/lampp/htdocs/mini-inventory-and-sales-management-system/application/controllers/Administrators.php 71
+ERROR - 2018-07-29 16:34:16 --> Severity: 8192 --> idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated /opt/lampp/htdocs/mini-inventory-and-sales-management-system/system/libraries/Form_validation.php 1234
+ERROR - 2018-07-29 16:34:35 --> Severity: 8192 --> idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated /opt/lampp/htdocs/mini-inventory-and-sales-management-system/system/libraries/Form_validation.php 1234
+ERROR - 2018-07-29 16:55:43 --> Severity: 8192 --> idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated /opt/lampp/htdocs/mini-inventory-and-sales-management-system/system/libraries/Form_validation.php 1234
+ERROR - 2018-07-29 16:56:15 --> Severity: 8192 --> idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated /opt/lampp/htdocs/mini-inventory-and-sales-management-system/system/libraries/Form_validation.php 1234
+ERROR - 2018-07-29 16:56:51 --> Severity: 8192 --> idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated /opt/lampp/htdocs/mini-inventory-and-sales-management-system/system/libraries/Form_validation.php 1234
+ERROR - 2018-07-29 16:57:04 --> Severity: 8192 --> idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated /opt/lampp/htdocs/mini-inventory-and-sales-management-system/system/libraries/Form_validation.php 1234
+ERROR - 2018-07-29 16:57:44 --> Severity: 8192 --> idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated /opt/lampp/htdocs/mini-inventory-and-sales-management-system/system/libraries/Form_validation.php 1234
+ERROR - 2018-07-29 16:59:55 --> Severity: 8192 --> idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated /opt/lampp/htdocs/mini-inventory-and-sales-management-system/system/libraries/Form_validation.php 1234
+ERROR - 2018-07-29 17:00:36 --> Severity: 8192 --> idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated /opt/lampp/htdocs/mini-inventory-and-sales-management-system/system/libraries/Form_validation.php 1234
+ERROR - 2018-07-29 17:01:07 --> Severity: 8192 --> idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated /opt/lampp/htdocs/mini-inventory-and-sales-management-system/system/libraries/Form_validation.php 1234
+ERROR - 2018-07-29 17:03:37 --> Severity: error --> Exception: syntax error, unexpected '=>' (T_DOUBLE_ARROW) /opt/lampp/htdocs/mini-inventory-and-sales-management-system/application/models/Admin.php 36
+ERROR - 2018-07-29 17:03:40 --> Severity: error --> Exception: syntax error, unexpected '=>' (T_DOUBLE_ARROW) /opt/lampp/htdocs/mini-inventory-and-sales-management-system/application/models/Admin.php 36
+ERROR - 2018-07-29 17:04:12 --> Severity: 8192 --> idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated /opt/lampp/htdocs/mini-inventory-and-sales-management-system/system/libraries/Form_validation.php 1234
+ERROR - 2018-07-29 17:04:35 --> Severity: 8192 --> idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated /opt/lampp/htdocs/mini-inventory-and-sales-management-system/system/libraries/Form_validation.php 1234
+ERROR - 2018-07-29 17:04:48 --> Severity: 8192 --> idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated /opt/lampp/htdocs/mini-inventory-and-sales-management-system/system/libraries/Form_validation.php 1234
+ERROR - 2018-07-29 17:04:48 --> Severity: 8192 --> idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated /opt/lampp/htdocs/mini-inventory-and-sales-management-system/system/libraries/Form_validation.php 1234
+ERROR - 2018-07-29 17:04:48 --> Severity: 8192 --> idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated /opt/lampp/htdocs/mini-inventory-and-sales-management-system/system/libraries/Form_validation.php 1234
+ERROR - 2018-07-29 17:06:24 --> Severity: 8192 --> idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated /opt/lampp/htdocs/mini-inventory-and-sales-management-system/system/libraries/Form_validation.php 1234
+ERROR - 2018-07-29 17:07:53 --> Severity: 8192 --> idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated /opt/lampp/htdocs/mini-inventory-and-sales-management-system/system/libraries/Form_validation.php 1234
+ERROR - 2018-07-29 17:08:15 --> Severity: 8192 --> idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated /opt/lampp/htdocs/mini-inventory-and-sales-management-system/system/libraries/Form_validation.php 1234
+ERROR - 2018-07-29 17:09:36 --> Severity: 8192 --> idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated /opt/lampp/htdocs/mini-inventory-and-sales-management-system/system/libraries/Form_validation.php 1234
+ERROR - 2018-07-29 17:09:48 --> Severity: 8192 --> idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated /opt/lampp/htdocs/mini-inventory-and-sales-management-system/system/libraries/Form_validation.php 1234
+ERROR - 2018-07-29 17:10:48 --> Severity: 8192 --> idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated /opt/lampp/htdocs/mini-inventory-and-sales-management-system/system/libraries/Form_validation.php 1234
+ERROR - 2018-07-29 17:11:51 --> Severity: 8192 --> idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated /opt/lampp/htdocs/mini-inventory-and-sales-management-system/system/libraries/Form_validation.php 1234

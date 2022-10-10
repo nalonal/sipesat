@@ -1,0 +1,6 @@
+git branch test
+git status
+git checkout test
+git add *data yang diupdate*
+git commit -m "Perubahan data"
+git push origin test
